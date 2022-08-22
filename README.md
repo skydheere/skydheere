@@ -1,12 +1,8 @@
-### Hi there 👋
+### Hi  I'm Skydheere! 👋
 
 
 
 ## 🚀 About Me
-I'm a full stack developer...
-
-
-# Hi, I'm Skydheere! 👋
 Senior Mobile Application Developer
 with around 5 years experience in software development lifecycle (SDLC) including analysis,
 design, development, and testing.
@@ -17,7 +13,6 @@ in a telecom campany.
 Eager to bring experience in Ai/ML to help my campany.
 
 
-## Other Common Github Profile Sections
 👩‍💻 I'm currently working on chatbot project
 
 🧠 I'm currently learning AI/Ml and DevOOps
@@ -29,8 +24,6 @@ Eager to bring experience in Ai/ML to help my campany.
 💬 Ask me about Chatbots & mobile development
 
 📫 How to reach me imraansky@gmail.com
-
-😄 Pronouns Skydheere
 
 ⚡️ Fun fact Canada is south of Detroit (just look at a map).
 
