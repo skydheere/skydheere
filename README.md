@@ -26,7 +26,7 @@ Eager to bring experience in Ai/ML to help my campany.
 📫 How to reach me imraansky@gmail.com
 
 ⚡️ Fun fact Canada is south of Detroit (just look at a map).
-
+<img src="https://github-readme-stats.vercel.app/api?username=skydheere&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com/)
