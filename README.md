@@ -3,14 +3,7 @@
 
 
 ## 🚀 About Me
-Senior Mobile Application Developer
-with around 5 years experience in software development lifecycle (SDLC) including analysis,
-design, development, and testing.
-iam also skilled machine learning engineer
-with expertise in building coversational ai chatbots.
-iam Successfully builded chatbot customer supporter 
-in a telecom campany. 
-Eager to bring experience in Ai/ML to help my campany.
+I am an AI/ML Engineer passionate about leveraging cutting-edge technologies to develop intelligent solutions. With a robust background in machine learning algorithms and deep learning frameworks, I specialize in designing and deploying scalable AI models that drive business innovation. My expertise spans from data preprocessing and model training to deployment and optimization, ensuring efficient and impactful solutions. With a strong foundation in software engineering and a dedication to continuous learning, I thrive in dynamic environments where creativity and technical excellence converge.
 
 
 👩‍💻 I'm currently working on chatbot project
