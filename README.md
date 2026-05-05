@@ -20,6 +20,6 @@ I am an AI/ML Engineer passionate about leveraging cutting-edge technologies to 
 
 
 ## 🛠 Skills
-Flutter, Andriod, Python,rasa framework for building chatbots
+ Python
 
 
